@@ -63,4 +63,4 @@ Reproducible scientific analysis
 
 🔗 GitHub Repository
 
-
+(https://github.com/Siliuonter/DNA-to-Protein-Translator)
